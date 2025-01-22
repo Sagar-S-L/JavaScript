@@ -3,7 +3,7 @@ let repoCount = 50;
 
 // console.log(name + repoCount + " Value"); // this is a older pattern not recommendable
 
-// console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
+// console.log(`Hello my name is ${name} and my repo count is ${repoCount}`); //string interpolation
 
 // let gameName = new String("Sagar");
 // console.log(gameName.length);
