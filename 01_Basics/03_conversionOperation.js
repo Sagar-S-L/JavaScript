@@ -14,8 +14,42 @@
 // "33abc" => NaN
 // true => 1; false =>0 "" => false "sagar" => true
 
-let num=33
+// let num=33
 
-let strnum=String(num);
-console.log(strnum);
-console.log(typeof strnum);
+// let strnum=String(num);
+// console.log(strnum);
+// console.log(typeof strnum);
+
+//  ******************************** OPERATIONS  ***************************************
+
+// let value = 33;
+// let negvalue = - value;
+// console.log(negvalue);
+
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**2);
+// console.log(2/2);
+// console.log(2%2);
+// console.log(2**3);
+
+// let str1 = "sagar";
+// let str2 = "maruti";
+
+// let str3 = str1 + str2;
+// console.log(str3);
+
+// console.log("1" + 2); //12
+// console.log(1 + "2"); //12
+// console.log("1" + 2 + 2); //122
+// console.log(1 + 2 + "3") //33
+
+// console.log(+true); //1
+// console.log(-false); //-0
+// console.log(+false); //0
+// console.log(+""); //0
+// console.log(+"gag"); //NaN
+
+
