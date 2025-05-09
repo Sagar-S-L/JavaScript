@@ -1,8 +1,7 @@
 # Project related to DOM
 
 ## Project link
-
-[Click here] ()
+[Click here](https://openai.com)
 
 ## Solution code
 
@@ -17,5 +16,6 @@ buttons.forEach((button)=>{
     button.addEventListener('click',(e)=>{
        body.style.backgroundColor = e.target.id
     })
-})
+});
+
 ```
